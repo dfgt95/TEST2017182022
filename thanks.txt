@@ -1,1 +1,2 @@
+#이름: 염경빈
 print('Thanks')
